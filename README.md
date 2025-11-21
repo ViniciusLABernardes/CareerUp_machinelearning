@@ -28,8 +28,7 @@ Além das recomendações imediatas, o CareerUp também sugere habilidades a ref
 - 🎯 Objetivo principal
  Ajudar pessoas a darem o próximo passo na carreira com confiança, oferecendo orientações personalizadas, claras e inteligentes — tudo baseado no perfil real de cada usuário.
 ---
-# ** Link do deploy(render) **: https://careerup-nolm.onrender.com (função da ia não está funcionando por conta de não ter uma api de ia gratuita, fazendo com que tenhamos que usar o ollama que roda localmente)
-# **Etapas para rodar o projeto **
+
 
 - 1º Baixar a pasta completa do modelo para o computador.
 
